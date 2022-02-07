@@ -1,7 +1,7 @@
 package main
 
-import versioned_go "github.com/iesreza/versioned-go"
+import versioned_go "github.com/iesreza/versioned-go/v2"
 
-func main()  {
+func main() {
 	versioned_go.PrintVersion()
 }
